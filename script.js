@@ -1,4 +1,3 @@
-
 // MODELO DE DATOS
 
 let mis_peliculas_iniciales = [
